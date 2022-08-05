@@ -25,3 +25,5 @@ Mimic a case where a merge conflict happens and solve it, folowed by pushing the
 
 
 
+**Part 3**
+new code
